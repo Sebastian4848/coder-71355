@@ -1,4 +1,4 @@
-alert('Bienvenido al juego de adivinar el numero, a continuación encuentras la mecanica del juego:\n\n - Debes adivinar un número del 0 al 100. \n - Tienes 7 intentos para divinar. \n - Cada vez que ingreses un numero se te avisará si estas por encima o por debajo del numero ganador. \n - Escribe "salir" en cualquier momento para abandonar el juego. \n\n Buena suerte! ')
+alert('Bienvenido al juego de adivinar el numero, a continuación encuentras las reglas del juego:\n\n - Debes adivinar un número del 0 al 100. \n - Tienes 7 intentos para divinar. \n - Cada vez que ingreses un numero se te avisará si estas por encima o por debajo del numero ganador. \n - Escribe "salir" en cualquier momento para abandonar el juego. \n\n Buena suerte! ')
 
 
 let i = 1;
